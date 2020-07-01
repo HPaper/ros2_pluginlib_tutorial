@@ -3,4 +3,4 @@ This repository includes tutorial packages to use ros pluginlib which tools for 
 
 # Reference
 - [pluginlib/Tutorials/Writing and Using a Simple Plugin in ``ROS.org``](http://wiki.ros.org/pluginlib/Tutorials/Writing%20and%20Using%20a%20Simple%20Plugin)
-- [Korean Guaid](ros2_pluginlib_tutorial.md)
+- [Korean Guide](ros2_pluginlib_tutorial.md)
